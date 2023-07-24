@@ -1,4 +1,4 @@
-# Calcular App
+# Calculator App
 
 ## Previous work
 
@@ -9,4 +9,4 @@ Create a `.env` file that should contain the next
 Run `npm install` command
 
 ## Run
-Run `npm start` command. To start using the api you need to first `login` or `signup`.
+Run `npm start` command.
